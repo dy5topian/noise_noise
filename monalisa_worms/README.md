@@ -1,4 +1,4 @@
-this project done one 16/12/2023
+this project done on 16/12/2023
 the aim was ---> there was not really any aim just wanted to create something with p5js 
 and here we are 
 idea : i was thinking about creating some warms that travel across the canvas 
