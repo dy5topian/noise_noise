@@ -1,0 +1,13 @@
+import re
+def mul(x,y):
+    return x*y
+s=0
+p=r'mul\([0-9]*,[0-9]*\)'
+f=open('input.txt','r')
+text=f.read()
+x=re.findall(p,text)
+for i in x:
+    s+=eval(i)
+print(s)
+
+
